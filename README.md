@@ -1,3 +1,3 @@
-![Banner](./github-banner.png)
+![Banner](./GitHub-Banner.png)
 # IT-Labs_Portfolio
 Hands-On IT Labs: Networking, Security, and Systems
