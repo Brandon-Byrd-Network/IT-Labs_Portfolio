@@ -24,7 +24,7 @@ My goal is to become a top-tier Network Engineer, and this space reflects my com
 - Secure Infrastructure Practices
 
 🚀 **Let’s Connect**:  
-- [LinkedIn]([https://www.linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/brandon-byrd-435262216/))  
+- [LinkedIn]([https://www.linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/brandon-byrd-435262216/)  
 
 
 ---
